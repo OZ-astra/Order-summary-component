@@ -147,18 +147,18 @@ body {
     }
     
     .container {
-        width: 50%;
+        width: 30%;
     }
     
     .summary-heading {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     
     .access {
-        font-size: 2rem;
-        margin-top: 0;
+        font-size: 1rem;
+        margin-top: -.2em;
         line-height: 1.7em;
-        width: 77%;
+        width: 77%;  
         
     }
     
@@ -167,28 +167,29 @@ body {
     }
     
     #music-icon {
-        width: 10%;
+        width: 5%;
     }
     
     #yearly-pay {
-        font-size: 1.8rem;
+        font-size: 1.2rem;
     }
     
     #price {
-        font-size: 1.5rem;
-        margin-right: 8em;
+        font-size: 1rem;
+        margin-right: 5em;
     }
     
     .change {
-        font-size: 1.8rem;
+        font-size: 1.2rem;
     }
     
     .continue-order {
-        font-size: 2rem;
+        font-size: 1.2rem;
+        padding: 1em 0;
     }
     
     .cancel-order  {
-        font-size: 2rem;
+        font-size: 1.2rem;
     }
     
     .continue-order:hover {
